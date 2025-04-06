@@ -24,6 +24,8 @@ Focused on software development, networks, and advanced programming.
 🔨 Professional Impact
 Most Recent:
 Back-end Developer @ Observit AB, Sweden (04/2025-present)
+
+
 Quality Assurance Intern @ Nordic Stone Studio (2023–2024)
 
 Improved product reliability by 20% through cloud-based testing frameworks and cross-functional collaboration.
